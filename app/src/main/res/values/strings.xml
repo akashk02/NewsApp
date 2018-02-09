@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">US News Catalyst</string>
+
+
+    <string name="placeholder_text">International Business News: On Tuesday, the PM is scheduled to deliver the inaugural speech exactly a year after Xi Jinping told the world about the benefits of globalisation, wh</string>
+    <string name="Times_of_India">Times of india</string>
+    <string name="time">4 hours ago</string>
+    <string name="India">India</string>
+    <string name="try_again">TRY AGAIN</string>
+    <string name="no_network">Your network is unavailable. Check your Data or wifi connection.</string>
+    <string name="play_store_link">https://play.google.com/store/apps/details?id=my.app1.android.retrofit_tutorial&amp;hl=en</string>
+
+
+</resources>
